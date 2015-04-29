@@ -1,5 +1,5 @@
 
- * Upgrade support to OpenCV 3.0.0-beta
+ * Upgrade support to OpenCV 3.0.0-rc1
  * Switch descriptor used by `ObjectFinder` from SURF to AKAZE
  * Add `FrameConverterTest` and fix a couple of bugs uncovered by it
  * Make `Frame implements Indexable` for easy and efficient access to image pixels
